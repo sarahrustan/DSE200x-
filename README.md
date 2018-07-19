@@ -12,4 +12,4 @@ _Methods:_ Data exploration, visualization and correlation using Python (Pandas,
 _Results:_ There is a strong, positive correlation (R = 0.82) between renewable energy consumption and gross domestic income (GDI) in the US between 1960 and 2006, indicating that renewable energy consumption increases as GDI increases.
 
 
-## Final Project: Coming soon...
+## Final Project: _Coming soon..._
