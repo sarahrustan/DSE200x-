@@ -18,6 +18,6 @@ _Objective:_ Explore survey responses focusing on the relationship between demog
 
 _Data:_ 2018 proprietary national survey (n = 1,200); 2010 US Decennial Census
 
-_Methods:_ Conduct k-means cluster analysis to determine whether there are clusters of demographic and experiential variables, including urban or rural geography, that predict attitudes towards opioids.
+_Methods:_ Conduct k-means cluster analysis to determine whether there are clusters of demographic and experiential variables, including urban, suburban or rural geography, that are associated with attitudes towards opioids.
 
 _Results: Coming soon..._
