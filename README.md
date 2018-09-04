@@ -3,7 +3,7 @@
 Two project notebooks for UCSanDiegoX: DSE200x Python for Data Science are included: 
 
 
-## Final Project: Predictors of attitudes towards opioids _(WORKING)_
+## Final Project: Predictors of attitudes towards opioids
 
 _Objective:_ To identify clusters of demographic and experiential variables that are associated with attitudes towards opioids.
 
