@@ -4,11 +4,13 @@
 # 
 # UCSanDiegoX: DSE200x Python for Data Science
 
+# Rustan, 9/4/2018
+
 # # Final Project: Predictors of Attitudes towards Opioids
 
 # ### Objective: To identify clusters of demographic and experiential variables that are associated with attitudes towards opioids.
 # 
-# ### Method: Combine data from mutiple sources to create a variable identifying each survey response geography as urban, suburban, or rural. Conduct cluster analysis using k-modes clustering algorithm (an unsupervised machine learning algorithm for categorical variables) to determine whether there are clusters of demographic and experiential variables associated with attitudes towards opioids, including urban, suburban or rural geography.
+# ### Methods: Combine data from mutiple sources to create a variable identifying each survey response geography as urban, suburban, or rural. Conduct cluster analysis using k-modes clustering algorithm (an unsupervised machine learning algorithm for categorical variables) to determine whether there are clusters of demographic and experiential variables associated with attitudes towards opioids, including urban, suburban or rural geography.
 
 # Datasources:
 # 1. Proprietary survey, n = 1,200
