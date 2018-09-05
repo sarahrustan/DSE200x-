@@ -6,7 +6,7 @@
 
 # Rustan, 9/4/2018
 
-# # Final Project: Predictors of Attitudes towards Opioids
+# # Final Project: Exploring attitudes towards opioids using k-modes clustering algorithm
 
 # ### Objective: To identify clusters of demographic and experiential variables that are associated with attitudes towards opioids.
 # 
@@ -795,4 +795,4 @@ parallel_plot(P2)
 
 # Three distinct groups of survey respondents were identified. The first two groups embody attitudes typical of plaintiff- and defense-oriented jurors in similar cases, while the third group appears to have demonstrated a significant acquiescence bias, which is a tendency to either answer 'Yes' or choose the first response option given. 
 
-# As above, the graph representing the costs associated with different number of clusters indicates that the 'elbow' occurs at three clusters; in other words, the amount that model fit improves with the addition of each additional cluster decreases after three clusters. This suggests that three clusters is the ideal number for this analysis. However, since determining where differences in attitudes between sub-groups of plaintiff- or defense-oriented jurors  could prove useful in framing the case, future research could include using the k-modes clustering algorithm for 4 (and possibly more) clusters.
+# As above, the graph representing the costs associated with different number of clusters indicates that the 'elbow' occurs at three clusters; in other words, the amount that model fit improves with the addition of each additional cluster decreases after three clusters. This suggests that three clusters is the ideal number for this analysis. However, since identifying differences in attitudes between sub-groups of plaintiff- or defense-oriented jurors  could prove useful in framing the case, future research could include using the k-modes clustering algorithm for 4 (and possibly more) clusters.
