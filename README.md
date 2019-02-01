@@ -9,14 +9,3 @@ _Methods:_ Combine data from mutiple sources to create a variable identifying ea
 _Results:_ Three distinct groups of survey respondents were identified. The first two groups embody attitudes typical of plaintiff- and defense-oriented jurors in similar cases, while the third group appears to have demonstrated a significant acquiescence bias, which is a tendency to either answer 'Yes' or choose the first response option given. 
 
 As shown in the attached notebook, the graph representing the costs associated with different number of clusters indicates that the 'elbow' occurs at three clusters; in other words, the amount that model fit improves with the addition of each additional cluster decreases after three clusters. This suggests that three clusters is the ideal number for this analysis. However, since identifying differences in attitudes between sub-groups of plaintiff- or defense-oriented jurors could prove useful in framing the case, future research could include using the k-modes clustering algorithm for 4 (and possibly more) clusters.
-
-
-
-## Mini Project: World Development Indicators
-_Objective:_ To explore US renewable energy consumption and its relationship with gross domestic income.
-
-_Data:_ World Development Indicators (N = 5,656,458)
-
-_Methods:_ Data exploration, visualization and correlation using Python (Pandas, NumPy, and Matplotlib).
-
-_Results:_ There is a strong, positive correlation (R = 0.82) between renewable energy consumption and gross domestic income (GDI) in the US between 1960 and 2006, indicating that renewable energy consumption increases as GDI increases.
