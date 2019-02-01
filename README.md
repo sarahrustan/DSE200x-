@@ -1,9 +1,4 @@
-# DSE200x Coursework
-
-Two project notebooks for UCSanDiegoX: DSE200x Python for Data Science are included: 
-
-
-## Final Project: Exploring attitudes towards opioids using k-modes clustering algorithm
+# Exploring attitudes towards opioids using k-modes clustering algorithm
 
 _Objective:_ To identify clusters of demographic and experiential variables that are associated with attitudes towards opioids.
 
