@@ -1,6 +1,6 @@
 # Exploring attitudes towards opioids using k-modes clustering algorithm
 
-_Objective:_ To identify clusters of demographic and experiential variables that are associated with attitudes towards opioids.
+_Objective:_ To inform jury selection strategy by identifying clusters of demographic and experiential variables that are associated with attitudes towards opioids.
 
 _Data:_ 2018 proprietary national survey (_n_ = 1,200); 2015 ZIP Code Tabulation Areas Gazetteer File (_N_ = 33,144); B25001 HOUSING UNITS by ZCTA, 2012-2016 American Community Survey 5-Year Estimates (_n_ = 33,120) 
 
